@@ -84,6 +84,8 @@ Thumbs.db
 *.sln
 *.sw?
 
+
+
 # 5. Capacitor/Mobile Specific Files
 ####################################
 # Core native project files (these are generated and should NOT be tracked)
